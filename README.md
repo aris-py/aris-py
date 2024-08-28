@@ -1,8 +1,19 @@
 # Hola ![holaxd](https://images-ext-1.discordapp.net/external/7JCHq2gtZzlzN3VT-AhcorXwlUjGm3UHFOud5h32Y2U/%3Fsize%3D48%26quality%3Dlossless%26name%3DDyno_Hi/https/cdn.discordapp.com/emojis/830011865395626004.gif)
+
+##           Tecnologias/lenguajes
+
+<div >
+	<table>
+		<tr>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code></td>
+		</tr>
+	</table>
+</div>
+
 ***
-## Tecnologias/lenguajes
 
-![python](https://camo.githubusercontent.com/8a03be915cf539ac37b85eefb894127a96cd149723686358c38f36de12932263/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f6c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765)
-![img](https://camo.githubusercontent.com/401f0384359877f2dfc1b834817db26e622f700d7281309123db9ea3a590baca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d453334463236266c6162656c436f6c6f723d776869746526636f6c6f723d6f72616e6765)
 
-![teveo](https://media.discordapp.net/attachments/760557267065634826/1151141535824494592/IMG_3313.gif?ex=66ca8359&is=66c931d9&hm=afa759edc0df5c410249c2baeda87fd202e36ceb9d025a0e17b87eaeb7408e07&=&width=546&height=421)
+![teveo](https://images-ext-1.discordapp.net/external/jkg54DlUXWryCalpcTY_P5aSAurigHTmcNyAr4uPRYg/%3Fsize%3D48%26quality%3Dlossless%26name%3Deatingcat/https/cdn.discordapp.com/emojis/1141552251895291954.gif)
