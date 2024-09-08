@@ -1,6 +1,6 @@
 # Hola ![holaxd](https://images-ext-1.discordapp.net/external/7JCHq2gtZzlzN3VT-AhcorXwlUjGm3UHFOud5h32Y2U/%3Fsize%3D48%26quality%3Dlossless%26name%3DDyno_Hi/https/cdn.discordapp.com/emojis/830011865395626004.gif)
 
-##           Tecnologias/lenguajes
+ Tecnologias/lenguajes
 
 <div >
 	<table>
