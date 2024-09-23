@@ -14,6 +14,7 @@
 - 🌱 I'm currently learning **Web development and Python**. 
 - 🤔 My hobbies are **listen music 🎵 and play games🎮**.
 - 💬 If you have any questions, **just ask me**.
+- 🐧btw i use Ubuntu
 
         
 
