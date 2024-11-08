@@ -1,6 +1,7 @@
 # hi, i'm arisdev 
 
-i'm a part time web developer and cybersecurity researcher
+- i'm a part time python developer and cybersecurity researcher
+- i use Arch btw 
 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/elArisDev)
 - i make contributions most of the time
