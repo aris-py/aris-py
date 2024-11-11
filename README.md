@@ -1,7 +1,7 @@
-# hi, i'm arisdev 
+i'm arisdev 
 
-- i'm a part time python developer and cybersecurity researcher
-- i use Arch btw 
+- working at [the libra proyect](https://github.com/The-Libra-Proyect) ⚖️
+- i use arch btw 
 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/elArisDev)
 - i make contributions most of the time
@@ -11,7 +11,7 @@
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31dk2lo2gu5n4liehmxndidymybe&unique={true|1|on|yes})
 ## :wrench: Technologies
 
-![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![WordPress](https://img.icons8.com/color/30/wordpress.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![Kali Linux](https://img.icons8.com/color/30/kali-linux.png)![Console](https://img.icons8.com/color/30/console.png)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![MD](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)![shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 
 
 <!-- BLOG-POST-LIST:END -->
