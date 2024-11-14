@@ -1,6 +1,5 @@
 i'm arisdev 
 
-- working at [the libra proyect](https://github.com/The-Libra-Proyect) ⚖️
 - i use arch btw 
 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/elArisDev)
