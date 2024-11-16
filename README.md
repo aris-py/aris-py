@@ -1,9 +1,9 @@
 i'm arisdev 
 
-- i use arch btw 
+- Linux Lover
 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/elArisDev)
-- i make contributions most of the time
+- backend developer
 ## :headphones: spotify playing
 
 [![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/intl-es/track/28BHwinU69xKIlL7vVln2k?si=aad23110bbd849d0)
