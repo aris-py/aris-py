@@ -3,7 +3,7 @@ i'm arisdev
 - Linux Lover
 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/elArisDev)
-- backend developer
+- web dev
 ## :headphones: spotify playing
 
 [![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/intl-es/track/28BHwinU69xKIlL7vVln2k?si=aad23110bbd849d0)
