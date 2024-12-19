@@ -1,4 +1,4 @@
-i'm rmdom.dev
+i'm aris.dev
 
 - Linux Lover
 
